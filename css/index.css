@@ -373,6 +373,10 @@ footer{
   background-color: var(--text_card);
 }
 
+.native-idiom{
+  margin-bottom: 1rem;
+}
+
 .description{
   text-align: justify;
   font-size: x-small;
