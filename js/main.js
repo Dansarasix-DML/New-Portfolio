@@ -44,13 +44,14 @@ document.addEventListener('DOMContentLoaded', function() {
     const tel = document.getElementById("tel");
     const github = document.getElementById("github");
     const linkedin = document.getElementById("linkedin");
+    const twitter = document.getElementById("twitter");
 
     const formationLinks = document.querySelectorAll('.formation-link');
     const proyectLinks = document.querySelectorAll('.proyects-list li');
     
     formLink(formationLinks);
     formLink(proyectLinks);
-    formLink([github, linkedin]);
+    formLink([github, linkedin, twitter]);
     socialPopup(email, "danielmarinlopez898@gmail.com")
     socialPopup(tel, "+34 618 36 79 35")
 
