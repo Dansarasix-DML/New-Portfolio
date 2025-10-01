@@ -484,6 +484,7 @@ footer{
   }
 
   .photo{
+    background-position: -208px 986px;
     width: 150px;
     height: 150px;
   }
@@ -613,6 +614,10 @@ footer{
   .bi-github, .bi-telephone, .bi-envelope-at{
     width: 25px;
     /* height: 25px; */
+  }
+
+  .photo{
+    background-position: -140px 658px;
   }
 
   .photo-div h2{
