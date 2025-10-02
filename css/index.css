@@ -43,6 +43,10 @@ body {
   color: var(--text);
 }
 
+.garantia{
+  width: 10rem;;
+}
+
 .mi-alerta {
   background-color: var(--form_card_text);
   color: var(--form_card);

@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
     formLink(proyectLinks);
     formLink([github, linkedin, twitter]);
     socialPopup(email, "danielmarinlopez898@gmail.com")
-    socialPopup(tel, "+34 618 36 79 35")
+    socialPopup(tel, "618 36 79 35")
 
     toggleTheme(btn, icon);
 });
